@@ -1,0 +1,566 @@
+.bg {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-whitesmoke);
+  width: 430px;
+  height: 932px;
+}
+.compensar-app-2-child {
+  position: absolute;
+  top: -16px;
+  left: 18px;
+  border-right: 2px solid var(--color-black);
+  box-sizing: border-box;
+  width: 2px;
+  height: 1257px;
+}
+.clase-personalizada-de-batera-child {
+  position: absolute;
+  height: 30%;
+  width: 7.16%;
+  top: 35%;
+  right: 91.65%;
+  bottom: 35%;
+  left: 1.19%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.b9,
+.image-1-icon {
+  position: absolute;
+  top: 41%;
+  left: 3.82%;
+}
+.image-1-icon {
+  height: 434%;
+  width: 103.58%;
+  top: 0;
+  right: -12.89%;
+  bottom: -334%;
+  left: 9.31%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.clase-personalizada-de-batera-item {
+  position: absolute;
+  height: 273.36%;
+  width: 51.34%;
+  top: -161.2%;
+  right: 15.3%;
+  bottom: -12.16%;
+  left: 33.35%;
+  background: linear-gradient(98.98deg, rgba(0, 0, 0, 0.81), transparent);
+  transform: rotate(34.99deg);
+  transform-origin: 0 0;
+}
+.clase-personalizada-de-batera {
+  position: absolute;
+  top: 192px;
+  left: 0;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 419px;
+  height: 100px;
+  cursor: pointer;
+}
+.alquiler-cancha-de-ftbol-11-child {
+  position: absolute;
+  height: 30%;
+  width: 7.16%;
+  top: 34.78%;
+  right: 91.65%;
+  bottom: 35.22%;
+  left: 1.19%;
+  border-radius: 50%;
+  background-color: var(--compensar);
+}
+.b10,
+.image-1-icon1 {
+  position: absolute;
+  top: 40.74%;
+  left: 3.82%;
+}
+.image-1-icon1 {
+  height: 434%;
+  width: 105.49%;
+  top: 0;
+  right: -14.8%;
+  bottom: -334%;
+  left: 9.31%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.alquiler-cancha-de-ftbol-11-item {
+  position: absolute;
+  height: 272.79%;
+  width: 51.45%;
+  top: -161.2%;
+  right: 15.2%;
+  bottom: -11.59%;
+  left: 33.35%;
+  background: linear-gradient(98.98deg, rgba(0, 0, 0, 0.81), transparent);
+  transform: rotate(35.16deg);
+  transform-origin: 0 0;
+}
+.alquiler-cancha-de {
+  position: absolute;
+  height: 70%;
+  width: 28.64%;
+  top: 18%;
+  left: 12.65%;
+  display: flex;
+  color: var(--color-white);
+  align-items: center;
+}
+.alquiler-cancha-de-ftbol-11 {
+  position: absolute;
+  top: 327px;
+  left: 0;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 419px;
+  height: 100.65px;
+  cursor: pointer;
+}
+.curso-de-game-design-child {
+  position: absolute;
+  height: 30%;
+  width: 7.16%;
+  top: 35%;
+  right: 91.65%;
+  bottom: 35%;
+  left: 1.19%;
+  border-radius: 50%;
+  background-color: var(--compensar);
+}
+.b11,
+.image-1-icon2 {
+  position: absolute;
+  top: 41%;
+  left: 3.58%;
+}
+.image-1-icon2 {
+  height: 434%;
+  width: 103.58%;
+  top: 0;
+  right: -24.82%;
+  bottom: -334%;
+  left: 21.24%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.curso-de-game-design {
+  position: absolute;
+  top: 458px;
+  left: 0;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 419px;
+  height: 100px;
+  cursor: pointer;
+}
+.image-2-icon {
+  position: absolute;
+  height: 356%;
+  width: 113.37%;
+  top: 0;
+  right: -22.67%;
+  bottom: -256%;
+  left: 9.31%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.plan-bienestar-item {
+  position: absolute;
+  height: 272.13%;
+  width: 39.05%;
+  top: -117%;
+  right: 42.55%;
+  bottom: -55.13%;
+  left: 18.4%;
+  background: linear-gradient(97.41deg, rgba(227, 123, 0, 0.78), transparent);
+  transform: rotate(22.03deg);
+  transform-origin: 0 0;
+}
+.plan-bienestar-inner {
+  position: absolute;
+  height: 195.84%;
+  width: 61.5%;
+  top: 187.13%;
+  right: -20.52%;
+  bottom: -282.97%;
+  left: 59.03%;
+  background: linear-gradient(66.17deg, rgba(255, 138, 31, 0.75), transparent);
+  transform: rotate(-98.69deg);
+  transform-origin: 0 0;
+}
+.plan-bienestar-integral {
+  position: absolute;
+  height: 51%;
+  width: 25.06%;
+  top: 18%;
+  left: 12.65%;
+  display: flex;
+  color: var(--color-white);
+  align-items: center;
+}
+.group-icon {
+  position: absolute;
+  height: 100.65%;
+  width: 90.69%;
+  top: 0;
+  right: 0;
+  bottom: -0.65%;
+  left: 9.31%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.plan-bienestar {
+  position: absolute;
+  top: 591px;
+  left: 0;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 419px;
+  height: 100px;
+}
+.game-pass-item {
+  position: absolute;
+  height: 195.84%;
+  width: 39.05%;
+  top: -97.69%;
+  right: 38.21%;
+  bottom: 1.85%;
+  left: 22.75%;
+  background: linear-gradient(98.98deg, #000, transparent);
+  transform: rotate(34.99deg);
+  transform-origin: 0 0;
+}
+.xbox-game-pass {
+  position: absolute;
+  top: 18%;
+  left: 12.65%;
+  color: var(--color-white);
+}
+.curso-de-teclados,
+.game-pass {
+  position: absolute;
+  top: 724px;
+  left: 0;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 419px;
+  height: 100px;
+}
+.curso-de-teclados {
+  top: 857px;
+}
+.image-1-icon5 {
+  position: absolute;
+  height: 395%;
+  width: 94.27%;
+  top: -123%;
+  right: -1.43%;
+  bottom: -172%;
+  left: 7.16%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.curso-de-fotografa-digital {
+  position: absolute;
+  top: 990px;
+  left: 0;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 419px;
+  height: 100px;
+}
+.image-1-icon6 {
+  position: absolute;
+  height: 395%;
+  width: 94.27%;
+  top: -208%;
+  right: -3.58%;
+  bottom: -87%;
+  left: 9.31%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.curso-de-fotografa-digital1 {
+  position: absolute;
+  top: 1123px;
+  left: 0;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 419px;
+  height: 100px;
+}
+.clase-personalizada-de-batera-parent {
+  position: absolute;
+  top: 3px;
+  left: 0;
+  width: 422px;
+  height: 859px;
+  overflow-y: auto;
+}
+.nivel-child {
+  position: absolute;
+  top: 174px;
+  left: 17px;
+  border-radius: 50%;
+  background-color: var(--color-black);
+  width: 6px;
+  height: 6px;
+}
+.nivel-bg,
+.nivel6 {
+  position: absolute;
+  box-sizing: border-box;
+}
+.nivel-bg {
+  top: 60px;
+  left: 0;
+  background-color: var(--color-lightgray);
+  border-bottom: 1px solid var(--color-black);
+  width: 430px;
+  height: 118px;
+}
+.nivel6 {
+  top: 72px;
+  left: 15px;
+  border-radius: var(--br-mini);
+  background-color: var(--color-whitesmoke);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border: 1px solid var(--color-black);
+  width: 400px;
+  height: 90px;
+}
+.component-11-item {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.b17,
+.div1 {
+  position: absolute;
+}
+.b17 {
+  width: 54.17%;
+  top: 0;
+  left: -4.17%;
+  display: inline-block;
+}
+.div1 {
+  height: 57.14%;
+  width: 28.57%;
+  top: 23.81%;
+  right: 35.71%;
+  bottom: 19.05%;
+  left: 35.71%;
+  border-radius: var(--br-xs);
+}
+.component-111 {
+  position: absolute;
+  top: 97px;
+  left: 51px;
+  width: 42px;
+  height: 42px;
+  cursor: pointer;
+}
+.exp1 {
+  position: absolute;
+  top: 129px;
+  left: 221px;
+  font-size: var(--font-size-3xs);
+  display: inline-block;
+  width: 90px;
+  height: 11px;
+}
+.nivel-item {
+  position: absolute;
+  top: 110px;
+  left: 128px;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-whitesmoke);
+  border: 2px solid var(--color-black);
+  box-sizing: border-box;
+  width: 270px;
+  height: 15px;
+}
+.nivel-inner {
+  position: absolute;
+  top: 112px;
+  left: 130px;
+  border-radius: var(--br-11xs) var(--br-8xs) var(--br-8xs) var(--br-11xs);
+  background-color: var(--compensar);
+  width: 132px;
+  height: 11px;
+}
+.top-down-selectors-child14 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: #ff7e36;
+  width: 430px;
+  height: 60px;
+}
+.top-down-selectors-child15 {
+  position: absolute;
+  top: 859px;
+  left: 0;
+  background-color: var(--color-gainsboro);
+  width: 430px;
+  height: 73px;
+}
+.nivel5,
+.top-down-selectors8 {
+  position: absolute;
+  top: 0;
+  left: 470px;
+  width: 430px;
+  height: 932px;
+}
+.nivel5 {
+  left: 0;
+  width: 900px;
+  font-size: var(--font-size-xl);
+}
+.top-down-selectors-child16,
+.top-down-selectors-child17 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--compensar);
+  border-bottom: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 430px;
+  height: 61.8px;
+}
+.top-down-selectors-child17 {
+  top: 860px;
+  background-color: var(--color-gainsboro);
+  height: 75.19px;
+}
+.image-6-icon8 {
+  position: absolute;
+  top: 3px;
+  left: 15px;
+  width: 145px;
+  height: 56px;
+  object-fit: cover;
+}
+.top-down-selectors9 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 430px;
+  height: 935.19px;
+}
+.svgrepo-iconcarrier8 {
+  position: absolute;
+  height: 3.15%;
+  width: 6.28%;
+  top: 1.68%;
+  right: 4.04%;
+  bottom: 95.17%;
+  left: 89.68%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  cursor: pointer;
+}
+.compensar-app-2-item {
+  position: absolute;
+  top: 1240px;
+  left: 17px;
+  border-radius: 50%;
+  background-color: var(--color-black);
+  width: 6px;
+  height: 6px;
+}
+.top-down-selectors-child18 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--compensar);
+  width: 430px;
+  height: 60px;
+}
+.svgrepo-iconcarrier9 {
+  position: absolute;
+  height: 3.15%;
+  width: 6.21%;
+  top: 1.68%;
+  right: 5.15%;
+  bottom: 95.17%;
+  left: 88.63%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.top-down-selectors10 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 430px;
+  height: 932px;
+}
+.frame-icon16,
+.frame-icon17 {
+  position: absolute;
+  top: 863px;
+  left: 9px;
+  width: 64px;
+  height: 64px;
+  overflow: hidden;
+}
+.frame-icon17 {
+  top: 859px;
+  left: 83px;
+}
+.frame-icon18,
+.frame-icon19,
+.x32-icon4 {
+  position: absolute;
+  top: 862px;
+  left: 261px;
+  width: 63px;
+  height: 63px;
+  overflow: hidden;
+}
+.frame-icon18,
+.frame-icon19 {
+  top: 859px;
+  left: 351px;
+  width: 64px;
+  height: 64px;
+}
+.frame-icon19 {
+  left: 170px;
+}
+.compensar-app-2 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 935px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

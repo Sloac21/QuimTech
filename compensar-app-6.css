@@ -1,0 +1,316 @@
+.top-down-selectors-child,
+.top-down-selectors-item {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--compensar);
+  width: 430px;
+  height: 60px;
+}
+.top-down-selectors-item {
+  top: 859px;
+  background-color: var(--color-gainsboro);
+  height: 73px;
+}
+.top-down-selectors {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 430px;
+  height: 932px;
+}
+.image-6-icon,
+.svgrepo-iconcarrier {
+  position: absolute;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.svgrepo-iconcarrier {
+  height: 52.45%;
+  width: 6.82%;
+  top: 22.62%;
+  right: -0.34%;
+  bottom: 24.93%;
+  left: 93.52%;
+  cursor: pointer;
+}
+.image-6-icon {
+  height: 100%;
+  width: 37.04%;
+  top: 0;
+  right: 62.96%;
+  bottom: 0;
+  left: 0;
+  object-fit: cover;
+}
+.component-91 {
+  position: absolute;
+  top: 3px;
+  left: 15px;
+  width: 391.5px;
+  height: 56px;
+}
+.usuario-child,
+.usuario-item {
+  position: absolute;
+  border-radius: var(--br-mini);
+}
+.usuario-child {
+  top: 18px;
+  left: 0;
+  background-color: var(--color-lightgray);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 410px;
+  height: 220px;
+}
+.usuario-item {
+  top: 0;
+  left: 12px;
+  width: 193px;
+  height: 53px;
+}
+.component-11-child,
+.nivel {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.nivel {
+  border-radius: var(--br-mini);
+  background-color: var(--color-whitesmoke);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 400px;
+  height: 90px;
+}
+.component-11-child {
+  height: 100%;
+  width: 100%;
+  right: 0;
+  bottom: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.b5,
+.div {
+  position: absolute;
+}
+.b5 {
+  width: 54.17%;
+  top: 0;
+  left: -4.17%;
+  display: inline-block;
+}
+.div {
+  height: 57.14%;
+  width: 28.57%;
+  top: 23.81%;
+  right: 35.71%;
+  bottom: 19.05%;
+  left: 35.71%;
+  border-radius: var(--br-xs);
+}
+.component-11 {
+  position: absolute;
+  top: 25px;
+  left: 36px;
+  width: 42px;
+  height: 42px;
+  cursor: pointer;
+}
+.exp {
+  position: absolute;
+  top: 57px;
+  left: 206px;
+  font-size: var(--font-size-3xs);
+  display: inline-block;
+  width: 90px;
+  height: 11px;
+}
+.group-child {
+  position: absolute;
+  top: 38px;
+  left: 113px;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-whitesmoke);
+  border: 2px solid var(--color-black);
+  box-sizing: border-box;
+  width: 270px;
+  height: 15px;
+}
+.group-item {
+  position: absolute;
+  top: 40px;
+  left: 115px;
+  border-radius: var(--br-11xs) var(--br-8xs) var(--br-8xs) var(--br-11xs);
+  background-color: var(--compensar);
+  width: 132px;
+  height: 11px;
+}
+.nivel-parent {
+  position: absolute;
+  top: 60px;
+  left: 5px;
+  width: 400px;
+  height: 90px;
+}
+.usuario-001 {
+  position: absolute;
+  top: 10px;
+  left: 50px;
+  text-decoration: underline;
+  color: var(--color-white);
+}
+.monedas-200,
+.usuario {
+  position: absolute;
+  top: 176px;
+  left: 16px;
+}
+.usuario {
+  top: 79px;
+  left: 10px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 410px;
+  height: 238px;
+}
+.misiones-child,
+.nivel1 {
+  position: absolute;
+  border-radius: var(--br-mini);
+}
+.misiones-child {
+  top: 22px;
+  left: 0;
+  background-color: var(--color-lightgray);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 410px;
+  height: 467px;
+}
+.nivel1 {
+  top: 58px;
+}
+.nivel1,
+.nivel2,
+.nivel3 {
+  left: 5px;
+  background-color: var(--color-whitesmoke);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 400px;
+  height: 90px;
+}
+.nivel2 {
+  position: absolute;
+  top: 163px;
+  border-radius: var(--br-mini);
+}
+.nivel3 {
+  top: 268px;
+}
+.misiones-item,
+.nivel3,
+.nivel4 {
+  position: absolute;
+  border-radius: var(--br-mini);
+}
+.nivel4 {
+  top: 373px;
+  left: 5px;
+  background-color: var(--color-whitesmoke);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 400px;
+  height: 90px;
+}
+.misiones-item {
+  top: 0;
+  left: 1px;
+  width: 193px;
+  height: 53px;
+}
+.misiones,
+.misiones1 {
+  position: absolute;
+  top: 10px;
+  left: 53px;
+}
+.misiones {
+  top: 338px;
+  left: 10px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 410px;
+  height: 489px;
+  color: var(--color-white);
+}
+.image-6-icon1 {
+  position: absolute;
+  top: 3px;
+  left: 15px;
+  width: 145px;
+  height: 56px;
+  object-fit: cover;
+}
+.svgrepo-iconcarrier1 {
+  position: absolute;
+  height: 3.15%;
+  width: 6.21%;
+  top: 1.68%;
+  right: 5.15%;
+  bottom: 95.17%;
+  left: 88.63%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.frame-icon,
+.frame-icon1 {
+  position: absolute;
+  top: 863px;
+  left: 9px;
+  width: 64px;
+  height: 64px;
+  overflow: hidden;
+}
+.frame-icon1 {
+  top: 859px;
+  left: 83px;
+}
+.frame-icon2,
+.frame-icon3,
+.x32-icon {
+  position: absolute;
+  top: 862px;
+  left: 261px;
+  width: 63px;
+  height: 63px;
+  overflow: hidden;
+}
+.frame-icon2,
+.frame-icon3 {
+  top: 859px;
+  left: 351px;
+  width: 64px;
+  height: 64px;
+}
+.frame-icon3 {
+  left: 170px;
+}
+.compensar-app-6 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 932px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

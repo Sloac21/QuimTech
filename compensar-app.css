@@ -1,0 +1,215 @@
+.tabs-icon {
+  position: absolute;
+  top: 361px;
+  left: 168px;
+  width: 93px;
+  height: 15px;
+}
+.compensar-app-child {
+  position: absolute;
+  top: 96px;
+  left: 25px;
+  width: 405px;
+  height: 231px;
+  overflow-x: auto;
+}
+.selections-buttons-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-8xs);
+  width: 400px;
+  height: 250px;
+  object-fit: cover;
+}
+.selections-buttons {
+  position: absolute;
+  top: 584px;
+  left: 15px;
+  width: 400px;
+  height: 250px;
+}
+.component-18-child,
+.frame-child {
+  position: absolute;
+  top: 0;
+  border-radius: var(--br-8xs);
+  width: 330px;
+  height: 100px;
+}
+.frame-child {
+  left: 360px;
+  object-fit: cover;
+}
+.component-18-child {
+  left: 0;
+  background-color: var(--color-gainsboro);
+}
+.component-18-item,
+.image-7-icon {
+  position: absolute;
+  height: 100%;
+  top: 0;
+  bottom: 0;
+}
+.image-7-icon {
+  width: 45.45%;
+  right: 54.55%;
+  left: 0;
+  border-radius: var(--br-8xs) 0 0 var(--br-8xs);
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.component-18-item {
+  width: 54.55%;
+  right: 0;
+  left: 45.45%;
+  border-radius: 0 var(--br-8xs) var(--br-8xs) 0;
+  background-color: var(--color-white);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.mes-de-los {
+  margin: 0;
+}
+.mes-de-los-container1 {
+  line-break: anywhere;
+  width: 100%;
+}
+.mes-de-los-container {
+  position: absolute;
+  height: 100%;
+  width: 54.55%;
+  top: 0;
+  left: 45.45%;
+  display: flex;
+  align-items: center;
+}
+.component-18,
+.rectangle-parent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 330px;
+  height: 100px;
+}
+.rectangle-parent {
+  top: 440px;
+  left: 14px;
+  width: 416px;
+  overflow-x: auto;
+}
+.top-down-selectors-child20,
+.top-down-selectors-child21 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--compensar);
+  width: 430px;
+  height: 60px;
+}
+.top-down-selectors-child21 {
+  top: 859px;
+  background-color: var(--color-gainsboro);
+  height: 73px;
+}
+.image-6-icon10 {
+  position: absolute;
+  top: 3px;
+  left: 15px;
+  width: 145px;
+  height: 56px;
+  object-fit: cover;
+}
+.svgrepo-iconcarrier10 {
+  position: absolute;
+  height: 3.15%;
+  width: 6.21%;
+  top: 1.68%;
+  right: 5.15%;
+  bottom: 95.17%;
+  left: 88.63%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.top-down-selectors11 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 430px;
+  height: 932px;
+}
+.svgrepo-iconcarrier11,
+.svgrepo-iconcarrier12 {
+  position: absolute;
+  height: 5.72%;
+  width: 12.4%;
+  top: 93.17%;
+  right: 84.26%;
+  bottom: 1.11%;
+  left: 3.33%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.svgrepo-iconcarrier12 {
+  height: 6.01%;
+  width: 13.02%;
+  top: 92.6%;
+  right: 66.74%;
+  bottom: 1.39%;
+  left: 20.23%;
+}
+.svgrepo-iconcarrier13,
+.svgrepo-iconcarrier14,
+.svgrepo-iconcarrier15 {
+  position: absolute;
+  height: 6.76%;
+  width: 14.21%;
+  top: 92.49%;
+  right: 24.87%;
+  bottom: 0.75%;
+  left: 60.92%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.svgrepo-iconcarrier14,
+.svgrepo-iconcarrier15 {
+  height: 5.58%;
+  width: 12.19%;
+  top: 92.81%;
+  right: 5.4%;
+  bottom: 1.61%;
+  left: 82.4%;
+}
+.svgrepo-iconcarrier15 {
+  height: 6.15%;
+  width: 13.33%;
+  top: 92.53%;
+  right: 46.36%;
+  bottom: 1.32%;
+  left: 40.31%;
+}
+.help {
+  position: absolute;
+  top: 790px;
+  left: 351px;
+  border-radius: 50%;
+  background-color: var(--compensar);
+  width: 64px;
+  height: 64px;
+}
+.compensar-app {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 932px;
+  overflow: hidden;
+  text-align: center;
+  font-size: 16px;
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
